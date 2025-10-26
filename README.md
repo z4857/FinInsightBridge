@@ -1,6 +1,3 @@
-# FinInsightBridge
-AI companion that tells investors when news truly matters
-
 # InsightBridge – Chrome Built-in AI Challenge 2025 Submission
 
 ## Overview
